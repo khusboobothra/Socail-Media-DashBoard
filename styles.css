@@ -166,7 +166,7 @@ border-top:3px solid hsl(348,97%,39%);
       font-size: 12px !important;
       margin-right: 6px; }
 .overview__title {
-  color: var(--header-text));
+  color: var(--header-text);
   font-size: 18px;
   margin: 10px 0 24px; }
 
